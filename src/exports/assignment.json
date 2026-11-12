@@ -1,0 +1,43 @@
+{
+ "mssv": "2A202603280",
+ "ten": "TranAnhTung",
+ "pool_version": "d04-k5-v2",
+ "cvat_user": "anhtung_1106",
+ "project": "d04-keypoint",
+ "persons": [
+  "000000021235.jpg",
+  "000000137767.jpg",
+  "000000433787.jpg",
+  "000000463932.jpg",
+  "000000525227.jpg",
+  "000000078170.jpg",
+  "000000193879.jpg",
+  "000000461389.jpg",
+  "000000054909.jpg",
+  "000000210604.jpg",
+  "000000106051.jpg",
+  "000000272026.jpg"
+ ],
+ "faces": [
+  "face_122747.jpg",
+  "face_362568.jpg",
+  "face_380639.jpg",
+  "face_145621.jpg",
+  "face_416730.jpg",
+  "face_249336.jpg",
+  "face_405456.jpg",
+  "face_333134.jpg"
+ ],
+ "tasks": {
+  "persons": {
+   "task_id": 14,
+   "job_id": 14,
+   "task_name": "persons-TranAnhTung"
+  },
+  "faces": {
+   "task_id": 15,
+   "job_id": 15,
+   "task_name": "faces-TranAnhTung"
+  }
+ }
+}
